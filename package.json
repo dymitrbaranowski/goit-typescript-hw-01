@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ViktorSvertoka/goit-typescript-hw-01.git"
+    "url": "git+https://github.com/dymitrbaranowski/goit-typescript-hw-01.git"
   },
-  "homepage": "https://github.com/ViktorSvertoka/goit-typescript-hw-01#readme",
+  "homepage": "https://github.com/dymitrbaranowski/goit-typescript-hw-01#readme",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ViktorSvertoka/goit-typescript-hw-01/issues"
+    "url": "https://github.com/dymitrbaranowski/goit-typescript-hw-01/issues"
   },
   "devDependencies": {
-    "@web/dev-server": "^0.3.3"
+    "@web/dev-server": "^0.3.6"
   }
 }
